@@ -1,4 +1,4 @@
-Hello Everybody! 🍸
+## Hello Everybody! 🍸
 I'm Vansh Chouhan - A B.Tech CSE (Data Science) student passionate about turning ideas into real-world products, currently focused on frontend development and UI/UX, with a long-term vision to build impactful tech solutions.
 
 
