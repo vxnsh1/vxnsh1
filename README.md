@@ -6,7 +6,10 @@
 <br/>
 
 ## 🧊 Hello Everybody!
-I'm Vansh Chouhan - A B.Tech CSE (Data Science) student passionate about turning ideas into real-world products, currently focused on frontend development and UI/UX, with a long-term vision to build impactful tech solutions.
+Hi, I’m Vansh.
+I’m a creative frontend developer focused on building clean, responsive, and animated user interfaces. Right now, I’m sharpening my skills in design engineering — turning high-quality UI concepts into pixel-perfect, interactive web experiences. 
+
+I believe great products aren’t just functional, they feel good to use.
 
 ## 🌊 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,postgres,react,go,prisma,supabase,threejs,js,tailwind,html,css,bun,arch)](https://skillicons.dev)
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=nextjs,reactjs,typescript,javascript,motion,gsap,tailwindcss,shadcnui)
